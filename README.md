@@ -6,7 +6,7 @@ Poko1900 Music Downloader is a Python script that allows you to download music f
 pytube and moviepy are the libraries which are not by default installed in python 3.11+ and needed to make it work. Additional edits in pytube may be needed since the regex in cypher file of the library sometimes needs to be configured manually
 
 ------------------------------------------------
-The application is strictly for personal use and under no circumstance it must be used if it violates copyright laws.
+The application is strictly for personal use and under no circumstance should be used if it violates copyright laws.
 ------------------------------------------------
 Features
 
