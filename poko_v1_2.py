@@ -15,8 +15,8 @@ import subprocess
 # global variables
 version='1.2'
 version_details = f'Poko 1990\nCurrent Version: {version}\nVideo Downloader and Converter\nPython Based and Open Source\nSuitable for Linux OS\nDependancies: pytube, tkinter, os, webbrowser, threading, tkinter.messagebox\nAuthor: Pokomaster\nContact: '
-destination = '/home/kotsosthegreat/Music/YouTubeMusic'
-appfolder = '/mnt/cf36a2d7-ecf4-46c7-a76a-5defe1ad7659/virtual_environments/poko_projects/ytdler'
+destination = '~/Desktop' #place the path the songs will be saved
+appfolder = '~/Desktop' #place the path of the folder of the program you want
 
 
 # Check if the output file exists and delete it if it is bigger than 40MB
